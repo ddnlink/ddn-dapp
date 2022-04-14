@@ -20,7 +20,7 @@
     "@ddn/ddn-asset-base": "^1.0.3",
     "@ddn/ddn-sandbox": "^1.0.0",
     "@ddn/ddn-utils": "^1.0.2",
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "decompress-zip": "^0.2.2",
     "ed25519": "0.0.4",
     "request": "^2.88.0",
